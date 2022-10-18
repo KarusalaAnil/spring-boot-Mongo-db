@@ -17,5 +17,5 @@ public class Task {
     private String description;
     private String priority; // p1 p2 p3
     private String assignee;
-    private String storyPoint; // 3
+    private int storyPoint; // 3
 }

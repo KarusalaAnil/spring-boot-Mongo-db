@@ -4,3 +4,6 @@ spring:
       host: localhost
       post: 27017
       database: mongoDbEx
+
+server:
+  port: 9090
